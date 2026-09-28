@@ -1,6 +1,6 @@
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,git,github,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)
 <!--
 **Marko12234/Marko12234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
