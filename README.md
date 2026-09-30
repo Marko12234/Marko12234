@@ -6,7 +6,7 @@
 
 **Runtimes & Frameworks**
 
-![](https://skillicons.dev/icons?i=dotnet,node.js)
+![](https://skillicons.dev/icons?i=dotnet,nodejs)
 
 **Datenbanken**
 
