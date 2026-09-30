@@ -1,17 +1,19 @@
 ## Tech Stack
 
-## Tech Stack
-
 **Sprachen**
+
 ![](https://skillicons.dev/icons?i=js,java,html,css)
 
 **Runtimes & Frameworks**
+
 ![](https://skillicons.dev/icons?i=nodejs,dotnet)
 
 **Datenbanken**
+
 ![](https://skillicons.dev/icons?i=mysql,mongodb)
 
 **Tools und Cloud**
+
 ![](https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,idea,aws)
 <!--
 **Marko12234/Marko12234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
