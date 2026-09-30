@@ -2,11 +2,11 @@
 
 **Sprachen**
 
-![](https://skillicons.dev/icons?i=js,html,css,java)
+![](https://skillicons.dev/icons?i=cs,js,html,css,java)
 
 **Runtimes & Frameworks**
 
-![](https://skillicons.dev/icons?i=nodejs,dotnet)
+![](https://skillicons.dev/icons?i=dotnet,node.js)
 
 **Datenbanken**
 
